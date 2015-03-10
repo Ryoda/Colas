@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1426028058 source:c:\users\javier\documents\practica algoritmos\colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Colas.h"
+
+1426027880 c:\users\javier\documents\practica algoritmos\colas\colas.h
+
+1426028346 source:c:\users\javier\documents\practica algoritmos\colas\colas.c
+	<stdio.h>
+	<stdlib.h>
+	"Colas.h"
+
